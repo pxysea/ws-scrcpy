@@ -4,3 +4,6 @@
 /.idea
 /.appium-home
 /logs/
+package-lock.json
+.env
+
